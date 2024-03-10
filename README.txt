@@ -1,0 +1,1 @@
+This is a sample database in Access used to manage employee records and their leave.
